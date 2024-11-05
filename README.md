@@ -1,9 +1,4 @@
 # BetterSRV Organization
-<style>
-  body {
-    background-color: grey;
-  }
-</style>
 
 ## Who are we?
 > We are a PMMP community, where you can find a wide variety of things including:
