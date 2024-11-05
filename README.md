@@ -11,7 +11,7 @@
 
 **and much more!**
 **If you are creating a server or already have one, here you could find trusted developers and free resources that could help you in your process!** 
-
+**In this organization we are focused on PMMP, you will be able to see great projects, acquire them among other things, all in a clean way.**
 - Also, if you need help with **errors in your plugins, etc.** this is the best community you could find! We invite you to join and discover how wonderful this community is!**
 
 <a href="https://discord.gg/qxpcrUtJGs">Click to go to our Discord</a>
